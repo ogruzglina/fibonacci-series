@@ -1,5 +1,17 @@
+# 0, 1, 1, 2, 3, 5, 8.
+
+# Input: 0
+# Output: 0
+
+# Input: 2
+# Output: 1
+# n-2 +fibonacci(num-1)
+
+# Input: 10
+# Output: 55
 def fibonacci(num)
   # type your code in here
+  
 end
 
 if __FILE__ == $PROGRAM_NAME
